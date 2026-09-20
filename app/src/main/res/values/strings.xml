@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App Aperte</string>
+    <string name="grant_access_title">Serve un permesso</string>
+    <string name="grant_access_desc">Per mostrare le app usate di recente, concedi l\'accesso all\'utilizzo.</string>
+    <string name="grant_access_button">Concedi accesso</string>
+    <string name="empty_list">Nessuna app recente trovata</string>
+    <string name="btn_open_recents">Apri panoramica di sistema</string>
+    <string name="accessibility_service_description">Serve solo per aprire la schermata "App recenti" di sistema al posto tuo, come premere il tasto/gesto Recenti. Non legge né modifica il contenuto di altre app.</string>
+    <string name="enable_accessibility_hint">Attiva "App Aperte" in Accessibilità, poi torna qui e riprova</string>
+</resources>
